@@ -1,0 +1,4 @@
+Ex-Priest
+=========
+
+Their are an abundance of priests, clerics and paladins within Orde. Some lose their way, or realize some horrid truth. These afflicted few usually leave their faith and as such are changed by it.  You are one of these few who have rejected their faith. Perhaps you saw an injustice, perhaps you saw a lie or perhaps you simply don’t believe anymore. Whatever the reason, your life will always carry a bit of what you once were with you.  **You may not follow a deity, nor may you benefit from any effect in which this is a prerequisite, this includes spells, classes, items and any other effect. This includes Patrons.** You have learned to depend on yourself, now that you no longer call upon gods. **You gain twice as many hitpoints when spending hit dice to heal during a short rest.  Skill Prof – Insight**

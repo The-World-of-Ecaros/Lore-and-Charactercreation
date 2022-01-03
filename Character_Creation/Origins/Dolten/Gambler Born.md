@@ -1,0 +1,8 @@
+Gambler Born
+============
+
+One of the most infamous voyages in Ecaros’s history, is also one of the shortest. In an attempt to cross the abyssal ocean a brilliant shipwright spent 20 years of his life to create the largest ship the world had ever seen. A ship so large it resembled a small city. Upon its maiden voyage the great ship left the tiny dock, along with its population of passengers. The ship made it merely a mile outside of the country before it collapsed in on itself. The ship sank, but was so large that the top half still juts out of the water. Like a forlorn island on the sea, so has the Grinning Gambler rested. To this day, it has served as a refuge to criminals and the like. A home for any that are brave enough to find their way.  It was here, among the squalor and the decks that you were born. Life here has been hard, but you were always a sharp one. Quick in mind and body, you avoided the dangers and even thrived. You picked up many tricks and trades among the denizens of the Grinning Gambler, and even, a little bit of it’s dark luck.  
+You have always been fast. Trouble is always two steps behind. **You gain +2 to initiative checks.**  
+You can't bullshit a bullshitter – **Skill Prof – Insight**  
+Corruption Bonus – **Roll two d6 after each long rest, you may choose one of the results and gain a +2 to the associated ability score until your next long rest.  1- Strength, 2- Dexterity, 3- Constitution, 4- Intelligence, 5- Wisdom, 6- Charisma.**  
+Corruption Effect: Sometimes bad luck is even worse and even more so for you. **Whenever you would roll a 2 on an attack roll, saving throw, or skill check, it counts as though you rolled a 1.**

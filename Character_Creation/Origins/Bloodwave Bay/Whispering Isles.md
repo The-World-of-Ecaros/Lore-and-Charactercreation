@@ -1,0 +1,4 @@
+Whispering Isles
+================
+
+Baymen often speak in whispered tones about places of darkness and terror. A series of islands is often the subject of these haunted tales. The Whispering Isles is a place not often traveled to and even less explored. Some however, whether they wish it or not, have made a home there. The things they see, they tell very few.  You were born in this place. In the whispering mists and the haunted cliffs you played as a child. You had specters as friends and hags as neighbors. You are told to never speak of where you come from lest the secret haven be uncovered. This is a secret you intend to keep.  You have always walked with spirits, some of their essence rubbed off on you. **You may cast Speak With Dead once per long rest. You have advantage on Charisma skill checks versus spirits and undead creatures.  Skill Prof – Deception**

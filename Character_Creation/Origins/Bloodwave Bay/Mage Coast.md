@@ -1,0 +1,4 @@
+Mage Coast
+==========
+
+Baymen often have their favorite hunting grounds and are often shaped by their prey. Those that hunt the Mage Coast often find magical loot, constructs and spells among their gold and wealth. The wizards guild of Majital would have others believe are a minor threat, but in truth those that hunt the Mage Coast are too fast and careful, for even wizards to catch. Most of the time.  You have sailed these waters for as long as you can remember. Your exposure to the magic from Majital has had a heavy impact on you. You have developed tricks and abilities to not only help you avoid the watchful eyes of the Taltaken, but to thrive in the shadow of the wizards guild.  You have developed keen senses for the presence of magic – **Skill Prof – Arcana**  Stealing so much from Majital has led you to adapt like they have. **You gain 1 wizard cantrip of your choice and cast it at character level.**

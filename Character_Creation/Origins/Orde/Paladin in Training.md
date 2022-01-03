@@ -1,0 +1,4 @@
+Paladin in Training
+===================
+
+Orde is the home to many of the main churches of the saintly religions in Ecaros. As such, there are many who attempt to answer the call of the paladin. Such a life is not for everyone however. Those that enter and fail aren't treated with shame in Orde, but rather with respect, for to attempt to become a paladin, is to reveal a caring nature. To fail doesn't mean these qualities did not exist, it simply means, that the person needs more time.  You trained under the holy sword. Although their styles may vary, all paladins follow a strict code of honor in battle. You uphold this honor, and perform it to the highest standards.  You have learned to strengthen yourself versus evil foes. **Whenever you deal damage to an evil creature, you deal 1 additional radiant damage.  Skill Prof – Martial**

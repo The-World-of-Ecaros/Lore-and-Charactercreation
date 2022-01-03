@@ -1,0 +1,4 @@
+Fangs in the Night
+==================
+
+The Fanged Wood is surprisingly civil for Dolten. Featuring free trade and even an annual ball for the entire region. Such class is come to be expected when living among vampires. You have nevertheless thrived living under these master manipulators. Befriending them, but always cautious. For after all, you are only a meal to them.  You have learned the subtle art of deception quite well from living here. **Skill Prof – Deception**  The gaze of a vampire is a constant fact of life to you. Therefore you have built up quite a tolerance to such effects. **You have advantage on saving throws versus Enchantment spells.**  Corruption bonus – **+1 Intelligence**  Corruption Effect: **You can be turned as an undead using your character level divided by 4 rounded down as the CR.**

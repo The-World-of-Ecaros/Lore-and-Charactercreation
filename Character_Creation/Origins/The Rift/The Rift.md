@@ -1,0 +1,4 @@
+The Rift
+========
+
+The Rift was once a swirling mass of wild magic, spells given sentience and a bestial hunger for magic. However, as the seals have been restored and stability returned to the inner planes. the Rift has begun to stabilize, revealing ruins long since thought abandoned. Those that have tried to live on it's edge have found new lands to inhabit and the rampant magic has caused several changes within them during the process. The volatile and unstable nature of The Rift is seen etched onto their very flesh and burned into their minds.  The Rift is wild will given manifestation. Gain a +1 to an ability score of your choice  The magics of the rift have their cost, as one will manifests a piece of potential is lost. Each Sub-Origin of the Rift, grant additional power, but locks away a skill, removing proficiency from it and denying it from ever gaining proficiency or expertise. It may also not receive advantage or be augmented in any beneficial way.

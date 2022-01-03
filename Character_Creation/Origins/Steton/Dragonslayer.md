@@ -1,0 +1,4 @@
+Dragonslayer
+============
+
+There is courage and then there is something else. All Stetonians have a love of danger and battle, but there are a few that stand out among them. These few choose to disregard lesser challenges for the ultimate fight. These few seek, sometimes their entire lives to face one challenge. The mighty Dragon.  You are one of these mad few. You care only for one moment, you seek only one sensation. Only one creature will satisfy your bloodlust. You have trained for it. on that day your soul will sing to the heavens and the gods will listen to its call.  You are resilient to damage in battle, especially against weaker unworthy challenges. **You reduce all physical damage taken from non draconic enemies by 2. This stacks with other forms of damage reduction.  Skill Prof – Arcana**

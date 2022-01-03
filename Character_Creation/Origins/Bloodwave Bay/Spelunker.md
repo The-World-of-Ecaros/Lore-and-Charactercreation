@@ -1,0 +1,4 @@
+Spelunker
+=========
+
+There are many caves to be found within Bloodwave Bay, each of them hold their own story and sometimes, that story is still being told. Whether it be searching for treasure or a place to hide, caves have always served the Baymen well. The caves of Bloodwave Bay are not without their perils, some Baymen have learned to thrive within these places. Using them as homes and storage areas. There are so many on the island-lets that dot the sea, that everywhere has potential to lead to something unexpected.  You grew up within these caves, learning to guide yourself through them, developing heightened senses and an affinity for stone, you have thrived within these caves..  Living your life searching for pitfalls and wayward paths, has given you special insight. **You increase your passive perception by 5. This bonus does not stack with the feat, Observant.  Skill Prof – Perception**

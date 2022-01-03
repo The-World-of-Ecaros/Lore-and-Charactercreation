@@ -1,0 +1,4 @@
+Lineage of Coin
+===============
+
+Even the gods need money. While charity is all well and good, people dont eat on good intentions. There are those, that devote themselves not to a deity, but to the coin. While some Ordeans see them as almost heretical in their commitment to money, these few know the real truth, without money, the gods die.  You were raised in the realm of accounting, trade and common sense. These traits you inherited within yourself.  **Choose a single cleric domain, you may use that domain's channel divinity once per week. If you gain channel divinity from a domain you possess, you may instead change your channel divinity once per long rest to that of another domain. This choice remains until you change it. Your character level counts as your cleric level for the purposes of this channel divinity. Clerics cannot use this origin to change their Turn Undead channel divinity effect.  Skill Prof – Persuasion**

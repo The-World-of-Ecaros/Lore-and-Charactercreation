@@ -1,0 +1,4 @@
+Dark Howler
+===========
+
+The Howling Hills is a place rife with lycanthropy. These beasts are not as bad as others may think. In fact you have lived your life in quiet awe of them. You have traded, befriended or even loved of them. Make no mistake, you are quite aware of their darker side. Their hunger and strength have always intrigued you. It was in this struggle of the light of humanity and the darkness of the beast you were born.  A little wolf is in your blood – **You gain scent with a range of 60ft. You gain advantage on scent based Perception checks.  Skill Prof – Athletics**  Corruption bonus – **+1 Strength**  Corruption Effect: **The traces of lupine in your blood means that you take double damage from silver or blessed weapons. If a weapon happens to be both silver and blessed, you take triple damage.**

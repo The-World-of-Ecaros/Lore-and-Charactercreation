@@ -1,0 +1,4 @@
+Navigator
+=========
+
+Sailing the seas means not getting lost. Some Baymen are natural navigators, able to inherently make sense of charts and the position of the stars. These navigators are highly sought after. Their quick minds and good judgment make them so valued that other Baymen treat them with a little more respect than their peers. Not actually nobles by any means, Navigators sure don’t mind acting like it. After all, they earned it.  You grew up with a head for numbers and the ability to find your way. In the Bay, such a gift is rare to be had at such a young age. Therefore, you were always treated a little better and kept alive as the highest priority. You also made quite a bit of profit.  A navigator can always find his way. **You always know north and you also have advantage on Survival checks to navigate.  Skill Prof – Survival**
